@@ -1,5 +1,5 @@
 # Projetos-em-que-atuei
-Aqui uma breve lista dos projetos em que atuei =)
+Aqui uma breve lista de alguns projetos em que atuei =)
 
 - Telemercado APP - Plataforma de MKTplace para compras em mercado (Backend - PHP/MySQL/Wirecard API) 
 https://telemercadoapp.com.br/
