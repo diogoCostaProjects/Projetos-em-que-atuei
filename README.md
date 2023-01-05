@@ -19,5 +19,5 @@ https://apsmais.com.br/user/
 - Bernardo e Stahlhoer - Site institucional para advocacia de trânsito (Fullstack - PHP/MySQL/JavaScript/HTML)
 https://bernardostahlhofer.adv.br/
 
-
+- Meridien Clube - Sistemas internos (Fullstack - PHP/MySQL/JavaScript/HTML/ZendFramework/Laravel)
 e mais algumas horas de vôo ... ;)
