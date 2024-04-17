@@ -17,6 +17,7 @@ https://benditasmaes.com.br/
 https://bernardostahlhofer.adv.br/
 
 - Meridien Clube - Sistemas internos (Fullstack - PHP/MySQL/JavaScript/HTML/ZendFramework/Laravel)
+https://meridienclube.com.br
 
 
 e mais algumas horas de vôo ... ;)
