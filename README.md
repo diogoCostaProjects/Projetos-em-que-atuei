@@ -10,9 +10,6 @@ https://terapiadodia.com.br/agendamento/
 - Shelter Móvel - Plataforma de mobilidade urbana (Backend - PHP/MySQL/Wirecard API)
 https://sheltermovel.com.br/
 
-- Benditas Mães - Rede social de apoio a maternidade (Backend - PHP/MySQL/Wirecard API)
-https://benditasmaes.com.br/
-
 - Bernardo e Stahlhoer - Site institucional para advocacia de trânsito (Fullstack - PHP/MySQL/JavaScript/HTML)
 https://bernardostahlhofer.adv.br/
 
