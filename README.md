@@ -19,5 +19,7 @@ https://bernardostahlhofer.adv.br/
 - Meridien Clube - Sistemas internos (Fullstack - PHP/MySQL/JavaScript/HTML/ZendFramework/Laravel)
 https://meridienclube.com.br
 
+- BR Logic - Plataforma de gerenciamento de rádios virtuais (Fullstack - PHP/MySQL/JavaScript/HTML/ZendFramework)
+https://www.brlogic.com/
 
 e mais algumas horas de vôo ... ;)
